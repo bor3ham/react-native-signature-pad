@@ -8,7 +8,7 @@ import {
   StyleSheet,
   ViewPropTypes,
 } from 'react-native';
-import WebView from 'react-native-webview';
+import { WebView } from 'react-native-webview';
 
 import htmlContent from './injectedHtml';
 import injectedSignaturePad from './injectedJavaScript/signaturePad';
