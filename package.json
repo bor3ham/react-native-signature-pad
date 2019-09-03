@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/DispatcherInc/react-native-signature-pad#readme",
   "dependencies": {
-    "prop-types": "^15.6.0"
+    "prop-types": "^15.6.0",
+    "react-native-webview": "^7.0.2"
   }
 }

@@ -5,11 +5,10 @@ import PropTypes from 'prop-types';
 
 import {
   View,
-  WebView,
   StyleSheet,
   ViewPropTypes,
 } from 'react-native';
-
+import WebView from 'react-native-webview';
 
 import htmlContent from './injectedHtml';
 import injectedSignaturePad from './injectedJavaScript/signaturePad';
